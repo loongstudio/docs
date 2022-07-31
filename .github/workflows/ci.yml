@@ -26,8 +26,8 @@ jobs:
         with:
           src: 'github/loongstudio'
           dst: 'gitee/loongstudio'
-          dst_key: ${{ secrets.ACCESS_TOKEN }}
-          dst_token:  ${{ secrets.GITEE_ACCESS_TOKEN }}
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token:  ${{ secrets.GITEE_TOKEN }}
           static_list: "docs"
           force_update: true
           debug: true
