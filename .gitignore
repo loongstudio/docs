@@ -17,11 +17,8 @@ Thumbs.db
 package-lock.json
 node_modules
 
-# YARN
-# yarn.lock
-
-# VuePress
-#docs/.vuepress/dist
+ VuePress
+docs/.vuepress/dist
 
 # Baidu Push
 urls.txt
