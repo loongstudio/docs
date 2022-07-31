@@ -17,3 +17,17 @@ jobs:
           TARGET_BRANCH: gh-pages
           BUILD_SCRIPT: yarn && yarn run build
           BUILD_DIR: docs/.vuepress/dist
+
+  repo-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mirror the Github organization repos to Gitee.
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: 'github/loongstudio'
+          dst: 'gitee/loongstudio'
+          dst_key: ${{ secrets.ACCESS_TOKEN }}
+          dst_token:  ${{ secrets.GITEE_ACCESS_TOKEN }}
+          static_list: "docs"
+          force_update: true
+          debug: true
