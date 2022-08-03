@@ -1,19 +1,21 @@
 ---
 home: true
-heroImage: /img/logo.svg
-heroText: MyBatis-Plus
-tagline: 🚀为简化开发而生
-actionText: 快速开始 →
+
+[//]: # (heroImage: /img/logo.svg)
+heroText: LoongStudio-Docs
+tagline: 古今之成就大事业、大学问者，必经过三种之境界
+actionText: 开启未来 →
 actionLink: /pages/24112f/
 bannerBg: none
 
 features: # 可选的
-  - title: 润物无声
-    details: 只做增强不做改变，引入它不会对现有工程产生影响，如丝般顺滑。
-  - title: 效率至上
-    details: 只需简单配置，即可快速进行单表 CRUD 操作，从而节省大量时间。
-  - title: 丰富功能
-    details: 代码生成、自动分页、逻辑删除、自动填充等功能一应俱全。
+  - title: 第一重境界
+    details: 昨夜西风凋碧树，独上高楼，望尽天涯路。
+  - title: 第二重境界
+    details: 衣带渐宽终不悔，为伊消得人憔悴。
+  - title: 第三重境界
+    details: 蓦然回首，那人却在，灯火阑珊处。
+
 
 postList: none
 ---
@@ -35,60 +37,17 @@ postList: none
 
 <br/>
 
-### 🎖特别用户
+## 代码托管
 
-<a href="https://www.diboot.com/?from=mp" target="_blank">
-  <img class="no-zoom" height="80" width="224" src="https://www.diboot.com/diboot_slogon.png">
-</a>
-
-<a href="https://www.developers.pub/?from=mp" target="_blank">
-  <img class="no-zoom" height="80" width="224" src="https://static.developers.pub/86feb94f2aaf474882697919020749c1.png">
-</a>
-
-<a href="http://aizuda.com?from=mp" target="_blank">
-  <img class="no-zoom" height="80" width="224" src="/img/aizuda.png">
-</a>
-
-### 当前最新版本
-
-```xml
-<dependency>
-    <groupId>com.baomidou</groupId>
-    <artifactId>mybatis-plus</artifactId>
-    <version>3.5.1</version>
-</dependency>
-```
-
-### 苞米豆生态圈
-
-- [MybatisX](https://github.com/baomidou/MybatisX) - 一款全免费且强大的 IDEA 插件，支持跳转，自动补全生成 SQL，代码生成。
-- [Mybatis-Mate](https://gitee.com/baomidou/mybatis-mate-examples) - 为 MyBatis-Plus 企业级模块，支持分库分表、数据审计、字段加密、数据绑定、数据权限、表结构自动生成 SQL 维护等高级特性。
-- [Dynamic-Datasource](https://gitee.com/baomidou/dynamic-datasource-spring-boot-starter) - 基于 SpringBoot 的多数据源组件，功能强悍，支持 Seata 分布式事务。
-- [Shuan](https://gitee.com/baomidou/shaun) - 基于 Pac4J-JWT 的 WEB 安全组件, 快速集成。
-- [Kisso](https://github.com/baomidou/kisso) - 基于 Cookie 的单点登录组件。
-- [Lock4j](https://gitee.com/baomidou/lock4j) - 基于 SpringBoot 同时支持 RedisTemplate、Redission、Zookeeper 的分布式锁组件。
-- [Kaptcha](https://gitee.com/baomidou/kaptcha-spring-boot-starter) - 基于 SpringBoot 和 Google Kaptcha 的简单验证码组件，简单验证码就选它。
-- [Aizuda 爱组搭](https://gitee.com/aizuda) - 低代码开发平台组件库。
-
-### 致谢
-
-MyBatis-Plus 已连续 5 年（[2017](https://www.oschina.net/project/top_cn_2017)、[2018](https://www.oschina.net/project/top_cn_2018)、[2019](https://www.oschina.net/project/top_cn_2019)、[2020](https://www.oschina.net/project/top_cn_2020)、[2021](https://www.oschina.net/project/top_cn_2021)）获得“OSC 年度最受欢迎中国开源软件”殊荣，感谢各位支持者的一路同行，我们会秉承 【为简化开发而生】 这一理念砥砺前行！
-
-### 代码托管
-
-> **[Gitee](https://gitee.com/baomidou/mybatis-plus)** | **[Github](https://github.com/baomidou/mybatis-plus)**
+> **[Gitee](https://loongstudio.gitee.io/docs)** | **[Github](https://loongstudio.github.io/docs)**
 
 ### 参与贡献
 
-欢迎各路好汉一起来参与完善 MyBatis-Plus，我们期待你的 PR！
+欢迎各路好汉一起来参与完善 loongstudio-docs，我们期待你的 PR！
 
-- 贡献代码：代码地址 [MyBatis-Plus](https://github.com/baomidou/mybatis-plus) ，欢迎提交 Issue 或者 Pull Requests
-- 维护文档：文档地址 [MyBatis-Plus-Doc](https://github.com/baomidou/mybatis-plus-doc) ，欢迎参与翻译和修订
-
-### 教程、案例、使用者名单
-
-请移步至 [Awesome-MyBatis-Plus](https://github.com/baomidou/awesome-mybatis-plus) 查看。
+- 贡献文档：文档地址 [loongstudio-docs](https://loongstudio.github.io/docs)，欢迎提交 Issue 或者 Pull Requests
+- 维护文档：文档地址 [loongstudio-docs](https://loongstudio.github.io/docs)，欢迎参与翻译和修订
 
 ### 友情链接
-- [easy-es](https://easy-es.cn/)
-- [layui-vue](http://www.layui-vue.com/)
+- [kunlong-luo](https://github.com/kunlong-luo/kunlong-luo)
+- [loongstudio-docs](https://github.com/loongstudio/docs)

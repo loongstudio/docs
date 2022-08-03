@@ -38,5 +38,5 @@
 
 欢迎各路好汉一起来参与完善 loongstudio-docs，我们期待你的 PR！
 
-- 贡献文档：文档地址 [loongstudio-docs](https://loongstudio.github.io/docs)，欢迎参与翻译和修订
-- 维护文档：文档地址 [loongstudio-docs](https://loongstudio.github.io/docs)，欢迎提交 Issue，
+- 贡献文档：文档地址 [loongstudio-docs](https://loongstudio.github.io/docs)，欢迎提交 Issue 或者 Pull Requests
+- 维护文档：文档地址 [loongstudio-docs](https://loongstudio.github.io/docs)，欢迎参与翻译和修订
