@@ -37,37 +37,39 @@ module.exports = {
       {
         iconClass: "icon-github",
         title: "GitHub",
-        link: "https://github.com/baomidou"
+        link: "https://github.com/loongstudio"
       },
       {
         iconClass: "icon-gitee",
         title: "Gitee",
-        link: "https://gitee.com/baomidou"
+        link: "https://gitee.com/loongstudio"
       },
       {
         iconClass: "icon-youjian",
-        title: "发邮件",
-        link: "mailto:koyangslash@gmail.com"
+        title: "Mail",
+        link: "mailto:loongstudio.loong@gmail.com"
       }
     ]
   },
 
   footer: {
-    createYear: 2016,
+    createYear: 2022,
     copyrightInfo: [
-      '<a href="http://baomidou.com" target="_blank" style="font-weight:bold">Team Baomidou</a>',
+      '<span style="font-weight:bold">MIT License</span>',
       ' | ',
-      'Sponsored by <a href="https://www.jetbrains.com" target="_blank" style="font-weight:bold">JetBrains</a>',
+      '<a href="https://github.com/loongstudio" target="_blank" style="font-weight:bold">Team LoongStudio</a>',
       ' | ',
-      '<a href="http://beian.miit.gov.cn/" target=_blank>渝ICP备2021000141号</a>',
+      '<a href="https://www.jetbrains.com" target="_blank" style="font-weight:bold">JetBrains</a>',
+      ' | ',
+      // '<a href="http://beian.miit.gov.cn/" target=_blank>渝ICP备2021000141号</a>',
       '<p>友情链接：',
-      '<a href="http://aizuda.com?from=MybatisPlus" target="_blank" style="font-weight:bold">AiZuDa</a>',
+      '<a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank" style="font-weight:bold">Vdoing</a>',
       ' | ',
-      '<a href="https://dyang.top/" target="_blank" style="font-weight:bold">D.Yang</a>',
+      '<a href="http://baomidou.com" target="_blank" style="font-weight:bold">Baomidou</a>',
       ' | ',
-      '<a href="https://blog.nancheung.com/" target="_blank" style="font-weight:bold">NanCheung</a>', 
+      '<a href="https://gitee.com/kunlong-luo" target="_blank" style="font-weight:bold">My Gitee</a>',
       ' | ',
-      '<a href="http://apidocs.cn/blog/" target="_blank" style="font-weight:bold">apidocsBlog</a>',
+      '<a href="https://github.com/kunlong-luo" target="_blank" style="font-weight:bold">My Github</a>',
       '</p>'
     ].join('')
   },

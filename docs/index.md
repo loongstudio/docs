@@ -39,15 +39,15 @@ postList: none
 
 ## 代码托管
 
-> **[Gitee](https://loongstudio.gitee.io/docs)** | **[Github](https://loongstudio.github.io/docs)**
+> **[Gitee](https://gitee.com/loongstudio/docs)** | **[Github](https://github.com/loongstudio/docs)**
 
-### 参与贡献
+## 参与贡献
 
 欢迎各路好汉一起来参与完善 loongstudio-docs，我们期待你的 PR！
 
-- 贡献文档：文档地址 [loongstudio-docs](https://loongstudio.github.io/docs)，欢迎提交 Issue 或者 Pull Requests
+- 贡献文档：文档地址 [loongstudio-docs](https://github.com/loongstudio/docs)，欢迎提交 Issue 或者 Pull Requests
 - 维护文档：文档地址 [loongstudio-docs](https://loongstudio.github.io/docs)，欢迎参与翻译和修订
 
-### 友情链接
+## 友情链接
 - [kunlong-luo](https://github.com/kunlong-luo/kunlong-luo)
 - [loongstudio-docs](https://github.com/loongstudio/docs)
