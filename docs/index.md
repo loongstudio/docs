@@ -20,23 +20,6 @@ features: # 可选的
 postList: none
 ---
 
-<p align="center">
-  <a class="become-sponsor" href="/pages/4fedc2">支持这个项目</a>
-</p>
-
-<style>
-  .become-sponsor{
-    padding: 8px 20px;
-    display: inline-block;
-    color: #11a8cd;
-    border-radius: 30px;
-    box-sizing: border-box;
-    border: 1px solid #11a8cd;
-  }
-</style>
-
-<br/>
-
 ## 代码托管
 
 > **[Gitee](https://gitee.com/loongstudio/docs)** | **[Github](https://github.com/loongstudio/docs)**
@@ -50,4 +33,4 @@ postList: none
 
 ## 友情链接
 - [kunlong-luo](https://github.com/kunlong-luo/kunlong-luo)
-- [loongstudio-docs](https://github.com/loongstudio/docs)
+- [loongstudio](https://github.com/loongstudio)

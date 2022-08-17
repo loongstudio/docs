@@ -1,6 +1,6 @@
 ---
 archivesPage: true
 title: 归档
-permalink: /blog/
+permalink: /archives/
 article: false
 ---
