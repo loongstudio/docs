@@ -1,16 +1,16 @@
 const nav = require("./nav.js");
-const htmlModules = require("./htmlModules.js");
+// const htmlModules = require("./htmlModules.js");
 
 // Theme Config
 module.exports = {
   nav,
   sidebarDepth: 2,
   logo: "/img/logo.svg",
-  repo: "baomidou/mybatis-plus",
+  repo: "loongstudio",
   searchMaxSuggestions: 10,
   lastUpdated: "上次更新",
 
-  docsRepo: "baomidou/mybatis-plus-doc",
+  docsRepo: "loongstudio/docs",
   docsDir: "docs",
   docsBranch: "master",
   editLinks: true,
@@ -28,8 +28,8 @@ module.exports = {
   archive: true,
 
   author: {
-    name: "Team Baomidou",
-    href: "https://github.com/baomidou"
+    name: "Team Loongstudio",
+    href: "https://github.com/loongstudio"
   },
 
   social: {
@@ -74,5 +74,5 @@ module.exports = {
     ].join('')
   },
 
-  htmlModules
+  // htmlModules
 };

@@ -52,7 +52,7 @@
 // };
 
 // 万维
-module.exports = {
+/*module.exports = {
   sidebarT: `
     <a href="https://www.diboot.com/?from=mp" target="_blank">
       <img class="no-zoom" height="80" width="224" src="https://www.diboot.com/diboot_slogon.png">
@@ -75,4 +75,4 @@ module.exports = {
         ele.firstChild.hidden = true;
     </script>
   `
-};
+};*/

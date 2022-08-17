@@ -4,8 +4,8 @@ const themeConfig = require('./config/themeConfig.js');
 
 module.exports = {
   theme: "vdoing",
-  title: "MyBatis-Plus",
-  description: 'MyBatis-Plus 官方文档',
+  title: "LoongStudio-Docs",
+  description: 'LoongStudio-Docs',
   base: "/docs/",
   markdown: {
     lineNumbers: true

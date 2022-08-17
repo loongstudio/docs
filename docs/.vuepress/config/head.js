@@ -1,12 +1,12 @@
 // Head Config
 module.exports = [
-  ["link", { rel: "icon", href: "/img/favicon.ico" }],
+  ["link", { rel: "icon", href: "" }],
   [
     "meta",
     {
       name: "keywords",
       content:
-        "mybatis,mybatisplus,mybatis-plus,mybatisplusdoc,mybatis-plus-doc,orm,framework,toolkit"
+        "kunlong-luo,loong,studio,loongstudio,loongstudio-docs"
     }
   ],
   ["meta", { name: "theme-color", content: "#11a8cd" }],
@@ -19,8 +19,8 @@ module.exports = [
   //       "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4147143076931995"
   //   }
   // ],
-  ["script", { async: true, src: "https://cdn.wwads.cn/js/makemoney.js" }],
-  ['script', {}, `
+  // ["script", { async: true, src: "https://cdn.wwads.cn/js/makemoney.js" }],
+  /*['script', {}, `
     // 万维广告“禁止”广告拦截
     // function called if wwads is blocked
     // https://github.com/bytegravity/whitelist-wwads
@@ -65,5 +65,5 @@ module.exports = [
         }
       }, 3000);
     });
-  `]
+  `]*/
 ];
