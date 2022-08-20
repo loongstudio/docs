@@ -1,7 +1,7 @@
 ---
 home: true
 
-[//]: # (heroImage: /img/logo.svg)
+heroImage: /img/logo.png
 heroText: LoongStudio-Docs
 tagline: 古今之成就大事业、大学问者，必经过三种之境界
 actionText: 开启未来 →

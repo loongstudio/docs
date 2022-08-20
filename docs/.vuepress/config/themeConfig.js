@@ -5,7 +5,7 @@ const nav = require("./nav.js");
 module.exports = {
   nav,
   sidebarDepth: 2,
-  logo: "/img/logo.svg",
+  logo: "/img/logo.png",
   repo: "loongstudio",
   searchMaxSuggestions: 10,
   lastUpdated: "上次更新",
