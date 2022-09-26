@@ -30,13 +30,13 @@
 
 <br/>
 
-## 代码托管
+## Managed code
 
 > **[Gitee](https://gitee.com/loongstudio/docs)** | **[Github](https://github.com/loongstudio/docs)**
 
-## 参与贡献
+## Support
 
-欢迎各路好汉一起来参与完善 loongstudio-docs，我们期待你的 PR！
+Welcome all good men to participate in the improvement loongstudio-docs，We look forward to your clarification PR！
 
-- 贡献文档：文档地址 [loongstudio-docs](https://github.com/loongstudio/docs)，欢迎提交 Issue 或者 Pull Requests
-- 维护文档：文档地址 [loongstudio-docs](https://loongstudio.github.io/docs)，欢迎参与翻译和修订
+- Contribution to the document：Typelink [loongstudio-docs](https://github.com/loongstudio/docs)，You are welcome to submit Issue or Pull Requests
+- Maintaining documentation：Typelink [loongstudio-docs](https://loongstudio.github.io/docs)，Welcome to participate in translation and revision
