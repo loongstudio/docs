@@ -1,16 +1,11 @@
 # Loongstudio-Docs
 
-<p align="center">
+<p align="left">
   <a href="https://loongstudio.github.io/docs">
    Loongstudio-Docs
   </a>
 </p>
-
-<p align="center">
-  Technical Open Source Documentation
-</p>
-
-<p align="center">
+<p align="left">
   <a href="https://nodejs.org/">
     <img alt="star" class="no-zoom" src="https://img.shields.io/badge/node-v16.16.0-blue">
   </a>
@@ -28,15 +23,12 @@
   </a>
 </p>
 
-<br/>
+## Introduction
+Loongstudio is an open source software organization, come and join us.
 
 ## Managed code
-
-> **[Gitee](https://gitee.com/loongstudio/docs)** | **[Github](https://github.com/loongstudio/docs)**
+> **[Gitee](https://gitee.com/loongstudio)** | **[Github](https://github.com/loongstudio)**
 
 ## Support
-
-Welcome all good men to participate in the improvement loongstudio-docs，We look forward to your clarification PR！
-
-- Contribution to the document：Typelink [loongstudio-docs](https://github.com/loongstudio/docs)，You are welcome to submit Issue or Pull Requests
+- Contribution to the code：Typelink [loongstudio](https://github.com/loongstudio)，You are welcome to submit Issue or Pull Requests
 - Maintaining documentation：Typelink [loongstudio-docs](https://loongstudio.github.io/docs)，Welcome to participate in translation and revision
